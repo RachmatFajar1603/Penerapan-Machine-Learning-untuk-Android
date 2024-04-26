@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="save">Save</string>
+    <string name="information">Informasi Penyakit Kanker</string>
+    <string name="history">Riwayat</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="cancer_classification">Cancer Classification</string>
+    <string name="searchbar_hint">Search Here ...</string>
+</resources>
